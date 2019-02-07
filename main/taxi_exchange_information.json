@@ -1,0 +1,13 @@
+{
+  "id": "99999",
+  "location": {
+    "trust_score": 53,
+    "private_trust": 20,
+    "group_trust": 8
+  },
+  "company": {
+    "trust_score": 74,
+    "private_trust": 21,
+    "group_trust": 18
+  }
+}
